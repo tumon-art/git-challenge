@@ -6,7 +6,6 @@ There are two branches, `add-echo` and `add-reverse`. The goal of this challenge
 61a2c67 feat: add reverse route (David Guttman, 7 minutes ago)
 2c2c5d6 feat: add echo route (David Guttman, 10 minutes ago)
 dcc4c0b docs: add more instructions (David Guttman, 11 minutes ago)
-
 ...
 ```
 ## Instructions
